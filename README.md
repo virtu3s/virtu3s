@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @virtu3s
+- 👋 Hi, I’m SOLĒMN
 - 👀 I’m interested in AI technology
 - 🌱 I’m currently learning Loveable.dev, Github,Supabase
 - 💞️ I’m looking to collaborate on NOM the mobile app about Travel & Food
